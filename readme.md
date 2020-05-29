@@ -1,12 +1,7 @@
-Bug tracking software 
+
 This is a bug tracking software developed in C language. 
 The bug tracking software can file a new bug, update either the status of the bug or assign the bug,
 display bugs based on same filer name, same status or type and display any bugs based on the bug id.
-
-C-Lang concepts used
-It uses structures, pointers, file handling as well as usage of multiple files. 
-It also uses switch-case for decision making as well as if.
-While is also used to iterate over the file.
 
 Variable description
 It classifies a bug based ob Bug_id, type, desciption, priority, status, name(filer),
